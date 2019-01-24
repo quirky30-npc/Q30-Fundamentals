@@ -12,7 +12,5 @@
 
 Now that we know how the Internet works and how it delivers webpages to your personal computer, let's brush up on our HTML skills!
 
-&lt;/div&gt;
-
 [Onward! To the next lesson.](html-elements/)
 

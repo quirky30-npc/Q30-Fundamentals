@@ -8,8 +8,6 @@ What exactly is the World Wide Web? How is it different from the Internet? Who c
 
 The Internet and the World Wide Web are very different entities, but they are often misused interchangeably. In the video below, we'll clarify some common misconceptions about the two.
 
-&lt;/div&gt;
-
 ### Hungry for more?
 
 * Quartz's [Map of the Internet](https://qz.com/se/map-of-the-internet/) is a beautiful, interactive overview of how the Internet is physical.

@@ -10,7 +10,5 @@ You may be familiar with doing programming exercises in online applications, suc
 
 Text editors and web browsers are the tools we'll use to build web applications in class and - more importantly - on the job. Watch the video below to learn about these two essential web development tools: text editors and web browsers.
 
-&lt;/div&gt;
-
 [Let's learn more about Sublime Text!](sublime-text.md)
 

@@ -4,8 +4,6 @@
 
 ## Think Like a Developer
 
- &lt;/div&gt;&lt;/div&gt;
-
 ### Googling the Error Message
 
 Professional web developers often joke that a third of being a real programmer is just knowing how to find answers on Google. This may be an exaggeration, but the point is not to worry if you ever find yourself scouring the web for the solution to a difficult coding problem. Even professionals do this and it's totally normal.
