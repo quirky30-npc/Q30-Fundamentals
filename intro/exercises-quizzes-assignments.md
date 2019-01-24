@@ -1,7 +1,5 @@
 # Exercises, Quizzes & Assignments
 
-**Welcome to WDI Fundamentals**
-
 ## JS Bin Exercises
 
 Fundamentals is interactive! Within every Unit, we've included practice exercises using a code editor \(called JS Bin\) that allows you to practice without leaving the page.
@@ -12,9 +10,9 @@ Click on the tabs to get used to the navigation.
 
 Please refresh the page if you do not see the JS Bin Editor below.
 
-[JS Bin on jsbin.com](https://jsbin.com/zojica/embed?html,output&height=600px)
+[JS Bin on jsbin.com](https://jsbin.com)
 
-> You're not required to submit these exercises, but you'll want to save your work in case you have questions and want to review these with your instructors or the WDI community on Slack.
+> You're required to submit these exercises, you'll want to save your work in case you have questions and want to review these with your instructors.
 
 ### To Save Your Code
 
