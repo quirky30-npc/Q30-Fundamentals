@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 2**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
 GitHub enables you to host and share website files online, similar to the way Dropbox or Google Drive let you store and share other types of files. GitHub hosts the files in a remote server in the cloud and gives you a working URL so that you can share your finished site with other people.
 
@@ -26,7 +26,7 @@ All we need to do on this page is make sure that "Free" is chosen as our persona
 
 **Step 3**: GitHub will send you an email asking you to verify your account. Take a moment to do this now. If you do not verify your email address, your page will not work. When you log in, you should see the following dashboard.
 
-![](../../.gitbook/assets/github-setup-3.png)
+![](../../.gitbook/assets/github-setup-3%20%281%29.png)
 
 Congratulations! You're officially a GitHub user!
 

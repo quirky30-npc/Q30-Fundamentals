@@ -10,13 +10,13 @@ Variables are used to store data types into the memory of the computer so that t
 
 Think of them as special containers that can hold information for you.
 
-![](../../.gitbook/assets/variable_container.png)
+![](../../.gitbook/assets/variable_container%20%281%29.png)
 
 In order to use a variable in JS, you must announce that you want to use it.
 
 You make this announcement by using the keyword `var` and declaring a variable name next to it.
 
-![](../../.gitbook/assets/var.png)
+![](../../.gitbook/assets/var%20%281%29.png)
 
 > Note: There must be a space after the keyword var.
 
@@ -222,7 +222,7 @@ Data types are really similar across different languages.
 
 What this means is that being confident in working with these concepts critically will enable you to walk into any programming language with some base knowledge that is translatable.
 
-![Data Types Chart](../../.gitbook/assets/data-types-chart.png)
+![Data Types Chart](../../.gitbook/assets/data-types-chart%20%281%29.png)
 
 We'll elaborate on all of these — except Booleans, for now.
 

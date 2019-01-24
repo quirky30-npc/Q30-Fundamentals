@@ -92,7 +92,7 @@ a:hover {
 
 Congratulations! Your board game is now structured and styled, utilizing all your new knowledge of HTML and CSS! As you move through the rest of Fundamentals, you'll be working on making the memory game functional. We'll do so using JavaScript. Eventually, once you've completed all of its pieces, you'll turn your game in as your final assignment for WDI Fundamentals.
 
-![](../.gitbook/assets/memory-game.png)
+![](../.gitbook/assets/memory-game%20%281%29.png)
 
 > Remember where you save your work! You'll add onto it as you work through Fundamentals!
 

@@ -12,11 +12,11 @@ If you're following along on _Mac OS or Ubuntu Linux_, feel free to skip the fol
 
 * Navigate to the [Git website](https://git-scm.com/), and double click on "Windows."
 
-![](../.gitbook/assets/git-bash-download-1.jpg)
+![](../.gitbook/assets/git-bash-download-1%20%281%29.jpg)
 
 * Your download should begin.
 
-![](../.gitbook/assets/git-bash-download-2.jpg)
+![](../.gitbook/assets/git-bash-download-2%20%281%29.jpg)
 
 ### Installing Git Bash
 
@@ -29,11 +29,11 @@ Follow the prompts in the installation window.
 
 * Choose a location to install files.
 
-![](../.gitbook/assets/git-bash-install-2.jpg)
+![](../.gitbook/assets/git-bash-install-2%20%281%29.jpg)
 
 * Select the following options in the "Select Components" prompt:
 
-![](../.gitbook/assets/git-bash-install-3.jpg)
+![](../.gitbook/assets/git-bash-install-3%20%281%29.jpg)
 
 * Select a start menu folder \(optional\).
 * Select the "Use Git from Git Bash Only" option.
@@ -42,7 +42,7 @@ Follow the prompts in the installation window.
 
 * Select the "Checkout Windows-style, commit Unix-style line endings" option.
 
-![](../.gitbook/assets/git-bash-install-5.jpg)
+![](../.gitbook/assets/git-bash-install-5%20%281%29.jpg)
 
 * Select "Use MinTTY \(the default terminal of MSYS2\)".
 
@@ -50,7 +50,7 @@ Follow the prompts in the installation window.
 
 * Check "Enable file system caching."
 
-![](../.gitbook/assets/git-bash-install-7.jpg)
+![](../.gitbook/assets/git-bash-install-7%20%281%29.jpg)
 
 * Wait for the files to install!
 
@@ -60,7 +60,7 @@ Follow the prompts in the installation window.
 
 **Mac/Ubuntu users:** When you open Terminal, you will see a window like this:
 
-![](../.gitbook/assets/terminal-blank.gif)
+![](../.gitbook/assets/terminal-blank%20%281%29.gif)
 
 > **NOTE** Practice using Spotlight to open files and applications on your computer. It'll make you more efficient as you navigate back and forth often between Terminal, your text editor, and your browser.
 

@@ -34,7 +34,7 @@ We'll be using this HTML page as a reference in the following examples:
 
 It will look like this when it is first loaded into the browser:
 
-![](../../.gitbook/assets/shopping-list-initial.png)
+![](../../.gitbook/assets/shopping-list-initial%20%281%29.png)
 
 So how do you access and update content? Let's take a look at some of the properties and methods that allow us to read and update the contents of a DOM node.
 
@@ -52,7 +52,7 @@ document.getElementsByTagName('li')[0].innerHTML = '<a href="http://allrecipes.c
 
 `innerHTML` would change the HTML content of the first `<li>` to `<a href="http://allrecipes.com/recipe/17500/corn-tortillas/">Corn Tortillas</a>`.
 
-![](../../.gitbook/assets/inner-html.png)
+![](../../.gitbook/assets/inner-html%20%281%29.png)
 
 If we simply want to retrieve the HTML content to use later on, we can grab it and save it in a variable, like so:
 
@@ -72,7 +72,7 @@ document.getElementById('important').textContent = 'Check!';
 
 This code would change the text content of the `<li>` that has the ID `important` to 'Check!'.
 
-![](../../.gitbook/assets/text-content.png)
+![](../../.gitbook/assets/text-content%20%281%29.png)
 
 #### Compare and Contrast: `textContent` vs. `innerHTML`
 
@@ -120,7 +120,7 @@ newListItem.textContent = 'Jalapenos';
 document.getElementsByTagName('ul')[0].appendChild(newListItem);
 ```
 
-![](../../.gitbook/assets/adding-elements.png)
+![](../../.gitbook/assets/adding-elements%20%281%29.png)
 
 ### Getting & Setting Attributes
 

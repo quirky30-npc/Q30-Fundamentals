@@ -21,7 +21,7 @@ Throughout the next few units, you're going to build a Memory Game! In order to 
 3. Name your repository `wdi-fundamentals-memorygame` and remember to select the checkbox "Initiate this repository with a README."
 4. After you create your new repository, you'll need to clone it to your computer. Referencing the image below, copy the URL you'll need to clone the repository.
 
-   ![](../.gitbook/assets/clone-http-1.png)
+   ![](../.gitbook/assets/clone-http-1%20%281%29.png)
 
 5. Next, open up the terminal application on your computer and navigate to the `fundamentals` directory within your home directory.
 6. Once there, run the following Git command from command line:   `git clone https://your/clone/url` \(substituting the clone URL you copied above\)   This will copy your forked repo from GitHub to your computer, so that you can work on it locally.

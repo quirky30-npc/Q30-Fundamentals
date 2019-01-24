@@ -10,7 +10,7 @@ Go ahead and open up Terminal using any of the following methods:
 
 1\) Navigate to your Applications folder, and double click on "Terminal."
 
-![](../../.gitbook/assets/terminal-in-finder.gif)
+![](../../.gitbook/assets/terminal-in-finder%20%281%29.gif)
 
 2\) Press Command + Space on your keyboard to bring up Spotlight — a tool that allows you to quickly find files and applications on our computer. Inside the search bar, type "Terminal," and select the Terminal application.
 

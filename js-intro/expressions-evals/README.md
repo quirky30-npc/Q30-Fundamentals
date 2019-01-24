@@ -8,7 +8,7 @@ In this section we'll be talking about expressions. What are expressions? Watch 
 
 Chances are, you've probably played around with a scientific calculator at some point in the past. You punch in a big number \(for example, 9876435\), then `x`, and then another big number \(say, 373848221\), and hit the `=` button. Then, the calculator spits back a result \(in this case, 3692287654572135\).
 
-![Calculator](../../.gitbook/assets/calculator.png)
+![Calculator](../../.gitbook/assets/calculator%20%281%29.png)
 
 That information we type into the calculator is called an **expression**: a collection of values \(_12345_\) and operators \(like `+` or `x`\).
 
@@ -36,7 +36,7 @@ The modulus operator shows the remainder of a division problem.
 
 For example, 9 divided by 4 equals 2 with a remainder of 1. The modulus operator takes two numbers as inputs and returns what's leftover from the division.
 
-![Modulus](../../.gitbook/assets/modulus_operator.png)
+![Modulus](../../.gitbook/assets/modulus_operator%20%281%29.png)
 
 The modulus operator `%` is particularly useful in programming if we want to find out if a number is even or odd.
 
@@ -132,7 +132,7 @@ Now, let's get back to some math and look at assignment operators.
 
 You're already familiar with the `=` assignment operator, but there are also ones we can use to add or subtract value from a variable. Take a look:
 
-![](../../.gitbook/assets/assignment_operators.png)
+![](../../.gitbook/assets/assignment_operators%20%281%29.png)
 
 The `+=` operator adds a value to an existing variable.
 

@@ -28,7 +28,7 @@ Here are some notes on what's been covered in this unit. Feel free to copy this 
 
 Below are the exact rules Boolean operators follow when dealing with non-Boolean input values.
 
-![](../.gitbook/assets/falsey_truthy.png)
+![](../.gitbook/assets/falsey_truthy%20%281%29.png)
 
 * NOT\(`!`\): If the value is _truthy_, return `false`; if the value is _falsey_, return `true`.
 * OR \(`||`\): Return the first _truthy_ value; if both values are _falsey_, return the last _falsey_ value. OR is nicknamed the "default operator" \(can you explain why?\)

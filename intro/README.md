@@ -1,6 +1,6 @@
 # Introduction
 
-![GA Logo](../.gitbook/assets/q30.png)
+![GA Logo](../.gitbook/assets/q30%20%281%29.png)
 
 Dear Quirky30 Student,
 

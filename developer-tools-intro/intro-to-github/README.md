@@ -32,11 +32,11 @@ Below is what the GitHub interface looks like for a repo called `awesome-project
 
 4. **Fork button**: allows you to copy a version of this repo \(`user/awesome-project`\) to your own GitHub account.
 
-![](../../.gitbook/assets/github-fork.gif)
+![](../../.gitbook/assets/github-fork%20%281%29.gif)
 
 5. **Side Bar**: allows you to respond to issues, create pull requests, and change the settings for this repo.
 
-![](../../.gitbook/assets/github-sidebar.gif)
+![](../../.gitbook/assets/github-sidebar%20%281%29.gif)
 
 There are many unique GitHub features crammed on this page, but we'll only be using three of them to start.
 
@@ -48,7 +48,7 @@ The GA Instructional Team has put together some resources for you in a repositor
 
 Eventually, when you've made changes that you'd like to share with our team, you can submit them back to us via our GitHub repo.
 
-Our workflow looks like this: ![](../../.gitbook/assets/github-workflow.gif)   
+Our workflow looks like this: ![](../../.gitbook/assets/github-workflow%20%281%29.gif)   
   
 
 
@@ -69,7 +69,7 @@ Let's walk through an example. Consider a project like Node.js, a JavaScript fra
 
 Although it is open source and anyone can read or contribute to its code, Node.js is **maintained** by a company called Joyent. Not all of these contributors have the ability to edit the original Joyent repo – that wouldn't be very efficient or safe. Someone could accidentally make a change that conflicts with someone else's contributions, causing the code to break. Changes need to be inspected and approved before they can officially be added to the project.
 
-To create a copy of Joyent's repo, you would need to **fork** it by clicking "Fork" in the upper right-hander corner: ![](../../.gitbook/assets/node-fork.png)
+To create a copy of Joyent's repo, you would need to **fork** it by clicking "Fork" in the upper right-hander corner: ![](../../.gitbook/assets/node-fork%20%281%29.png)
 
 > **Note** You don't follow these steps just yet. Read this chapter, and then you'll have a chance to try it out yourself in the [Unit 2 Assignment](../developer-tools-assignment.md).
 

@@ -83,9 +83,9 @@ For this assignment, you'll use an `alert` to display messages to your user:
 
 #### Deliverable
 
-![](../.gitbook/assets/deliverable%20%282%29.png)
+![](../.gitbook/assets/deliverable%20%286%29.png)
 
-![](../.gitbook/assets/deliverable-2%20%281%29.png)
+![](../.gitbook/assets/deliverable-2%20%282%29.png)
 
 #### Pushing Code Up to the Repository
 

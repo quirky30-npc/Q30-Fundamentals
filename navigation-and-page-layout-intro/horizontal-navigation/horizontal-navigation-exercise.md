@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 6**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
 ### Horizontal Navigation Exercise
 
@@ -10,7 +10,7 @@ In this exercise, we'll continue to style the ELK Web Design site by working wit
 
 Remember, this is our final design:
 
-![](../../.gitbook/assets/elk-final%20%281%29.png)
+![](../../.gitbook/assets/elk-final%20%282%29.png)
 
 ### Instructions
 
@@ -62,7 +62,7 @@ Now, let's add in some content and build out the navigation bar.
 
 Here's what your design should start to look like:
 
-![](../../.gitbook/assets/elk-with-floated-nav.png)
+![](../../.gitbook/assets/elk-with-floated-nav%20%281%29.png)
 
 > Stuck? Check out the [solutions](../../exercise-solutions.md#horizontal-nav) for assistance.
 

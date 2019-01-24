@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 6**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
 
 ### Column Layout Exercise
 
@@ -68,7 +68,7 @@ Bravo! Well done.
 
 Here's what your design should now look like:
 
-![](../../.gitbook/assets/deliverable%20%285%29.png)
+![](../../.gitbook/assets/deliverable%20%283%29.png)
 
 [Time to test your knowledge!](../navigation-and-page-layout-quiz.md).
 

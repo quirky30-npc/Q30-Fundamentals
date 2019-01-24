@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 8**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%285%29.png) Your Turn
 
 ### Switch Statements and Ternary Operators Exercise
 

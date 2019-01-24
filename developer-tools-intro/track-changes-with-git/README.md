@@ -56,7 +56,7 @@ $ git add post.txt
 
 The changes we've just made have now been _staged_, added to the list of changes that will be officially saved with our next commit; however, this list is not final, and any of these changes can be taken off the list, or _unstaged_. If we run `git status` again, we'll see that the addition of `post.txt` is staged and ready to be committed:
 
-![](../../.gitbook/assets/git-status-staged.gif)
+![](../../.gitbook/assets/git-status-staged%20%281%29.gif)
 
 > **NOTE** Sometimes, you'll want to save _all_ of the changes to files that have been made inside your repo. Instead of specifying a unique file, you can write `git add .` — this will add all of the files in the working directory to the next commit. Be careful, though, when using `git add .` — you could accidentally add files with sensitive information.
 
@@ -79,7 +79,7 @@ $ git commit -m "message"
 
 Why stage? So that if you make multiple changes you can commit them separately or all at once \(basically, it exists to help you better organize your project history\).
 
-![](../../.gitbook/assets/git-add-commit.png)
+![](../../.gitbook/assets/git-add-commit%20%281%29.png)
 
 ### Your Commit History
 

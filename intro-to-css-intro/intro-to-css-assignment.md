@@ -97,7 +97,7 @@ p {
 
 #### Deliverable
 
-![](../.gitbook/assets/deliverable%20%283%29.png)
+![](../.gitbook/assets/deliverable%20%281%29.png)
 
 ![](../.gitbook/assets/h1.png)
 

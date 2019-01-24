@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 8**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
 ### Conditionals Exercise
 

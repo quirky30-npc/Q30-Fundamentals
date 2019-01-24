@@ -45,7 +45,7 @@ In this assignment you will:
 
 Nice — our game is really coming along!
 
-![](../../.gitbook/assets/memory-game%20%281%29.png)
+![](../../.gitbook/assets/memory-game.png)
 
 [Take a quick feedback survey to help us improve Fundamentals.](pulse-check.md)
 

@@ -65,7 +65,7 @@ You'll then update any code from the last assignment that was accessing values f
 
 Here's what your console should display:
 
-![](../.gitbook/assets/deliverable%20%284%29.png)
+![](../.gitbook/assets/deliverable%20%288%29.png)
 
 Here's what the alert that pops up should display:
 

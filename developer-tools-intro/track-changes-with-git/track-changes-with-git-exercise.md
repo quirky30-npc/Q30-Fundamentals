@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 2**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
 This exercise will give you some practice using Git.
 

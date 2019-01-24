@@ -18,7 +18,7 @@ With your newfound knowledge from this unit, let's go ahead and create the found
 * Use an `h1` element to provide a heading for the game.
 * Include a subheading titled "Instructions", and add a paragraph explaining how the Memory Card Game is played.
 
-![](../.gitbook/assets/deliverable%20%281%29.png)
+![](../.gitbook/assets/deliverable%20%282%29.png)
 
 **Here are the steps to complete your assignment:**
 

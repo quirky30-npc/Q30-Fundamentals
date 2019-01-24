@@ -2,13 +2,13 @@
 
 **WDI Fundamentals Unit 5**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
 
 ### Headers, Navs, and Footers Exercise
 
 In this exercise, you'll learn the basics of laying out a webpage while building a small business website for ELK Web Design! The final design is based on an assignment submitted by a Front-End Web Development graduate, Lauren Kathe, and looks like this:
 
-![](../../.gitbook/assets/elk-final.png)
+![](../../.gitbook/assets/elk-final%20%281%29.png)
 
 This design has four sections:
 

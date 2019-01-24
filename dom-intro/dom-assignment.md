@@ -141,5 +141,5 @@ Now it's time to submit you code. Submit your link to your GitHub repository via
 
 _Don't worry if you had trouble finishing up the memory game. Go ahead and submit what you have, and you'll be able to review it with your instructor soon enough!_
 
-[We want your feedback!](https://github.com/quirky30-npc/Q30-Fundamentals/tree/5d800fad5dbe0f17122ec166a0721a1f9e577c44/12_feedback/intro.md)
+[We want your feedback!](https://github.com/quirky30-npc/Q30-Fundamentals/tree/953b2080c48dde27a36199e15dce533771a0d08c/12_feedback/intro.md)
 

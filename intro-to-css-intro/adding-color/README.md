@@ -52,7 +52,7 @@ The alpha parameter can take any number between 0.0 \(totally transparent\) and 
 
 See below:
 
-![](../../.gitbook/assets/rgb.png)
+![](../../.gitbook/assets/rgb%20%281%29.png)
 
 [Play around with color in this exercise.](adding-color-exercise.md)
 

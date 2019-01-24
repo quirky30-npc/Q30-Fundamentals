@@ -93,7 +93,7 @@ Nice work!
 
 #### Deliverable:
 
-![](../.gitbook/assets/deliverable%20%286%29.png)
+![](../.gitbook/assets/deliverable%20%2810%29.png)
 
 #### Pushing Code Up to the Repository
 

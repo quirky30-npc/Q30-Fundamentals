@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 7**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
 ### Expressions and Evaluations Exercise
 

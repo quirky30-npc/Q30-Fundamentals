@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 4**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
 
 Let's practice matching colors across the three web color models: named colors, hex codes, and RGB colors.
 

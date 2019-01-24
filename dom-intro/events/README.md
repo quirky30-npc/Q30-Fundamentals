@@ -10,7 +10,7 @@ For example, when a user _clicks_ on our site's menu icon, a sidebar menu should
 
 These actions are called **events**.
 
-![](../../.gitbook/assets/menu.gif)
+![](../../.gitbook/assets/menu%20%281%29.gif)
 
 Take a look at this short video providing an overview of the usefulness of events in JavaScript.
 
@@ -132,7 +132,7 @@ emailInputField.addEventListener('blur', tabAway);
 
 Here are the results when the user tabs or clicks away from the field:
 
-![](../../.gitbook/assets/blur.gif)
+![](../../.gitbook/assets/blur%20%281%29.gif)
 
 You can imagine that this event might be useful if we want to check to make sure the field is not empty when the user tabs out of the field. We could then add a message noting that the field is required if the user has not entered any input into the field.
 

@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 11**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%284%29.png) Your Turn
 
 ### Manipulating the DOM Exercise
 

@@ -26,7 +26,7 @@ Creating a free account on JS Bin will allow you to save your exercises as "bins
 
 3\) Once logged in, if you try to make your changes in any tab, you'll receive the following message.
 
-![](https://github.com/quirky30-npc/Q30-Fundamentals/tree/5d800fad5dbe0f17122ec166a0721a1f9e577c44/assets/elkwebdesign/jsbin_clone.png)
+![](https://github.com/quirky30-npc/Q30-Fundamentals/tree/953b2080c48dde27a36199e15dce533771a0d08c/assets/elkwebdesign/jsbin_clone.png)
 
 You'll want to click on the "clone your own copy" which will generate a new link.
 
@@ -39,7 +39,7 @@ You'll want to click on the "clone your own copy" which will generate a new link
 * Save your JS bin url. 
   * Simply copy and save your JS bin url for future reference. You can also go to File &gt;My Bins to find the bin. Additionally, you can also `File` &gt; `Save Snapshot` at point in time where JS bin will automatically save the latest version for you on your working copy.
 
-![](https://github.com/quirky30-npc/Q30-Fundamentals/tree/5d800fad5dbe0f17122ec166a0721a1f9e577c44/assets/elkwebdesign/jsbin.png)
+![](https://github.com/quirky30-npc/Q30-Fundamentals/tree/953b2080c48dde27a36199e15dce533771a0d08c/assets/elkwebdesign/jsbin.png)
 
 **Pro Tip**: Remember, the code you write in the JS Bin editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
 

@@ -36,7 +36,7 @@ You also can't say that you were born on December 45th, because that day doesn't
 
 When you try entering information like this, JS will identify that it is wrong by comparing the information you entered against information that has been provided as accurate.
 
-![](../../.gitbook/assets/form-x.png)
+![](../../.gitbook/assets/form-x%20%281%29.png)
 
 Making comparisons is almost like asking questions about the information the user has entered.
 
@@ -78,7 +78,7 @@ The conditional below is an `if` statement.
 
 An `if` statement will take in a condition and, if that condition is _truthy_, run whatever code you specify.
 
-![](../../.gitbook/assets/condition_zoom.png)
+![](../../.gitbook/assets/condition_zoom%20%281%29.png)
 
 **Flow Charts**
 
@@ -86,7 +86,7 @@ You're probably already familiar with a common real-world application of the `if
 
 A _flow chart_ is a visual diagram that tells us how to behave depending on a certain set of conditions.
 
-![](../../.gitbook/assets/flow_chart.png)
+![](../../.gitbook/assets/flow_chart%20%281%29.png)
 
 If we were to draw a flowchart to describe the following if statement:
 
@@ -99,7 +99,7 @@ if (x > 10) {
 
 We might come up with something like this:
 
-![](../../.gitbook/assets/flow_chart_1.png)
+![](../../.gitbook/assets/flow_chart_1%20%281%29.png)
 
 As you can see, a person making their way through this diagram would need to make a decision.
 
@@ -127,7 +127,7 @@ We can add as many `else if` statements as we want. You just keep tacking them o
 
 These statements allow us to add complex logic to our program, which can check for multiple conditions and specify an action for each result, making our program seem more intuitive and user friendly.
 
-![](../../.gitbook/assets/flow_chart_2.png)
+![](../../.gitbook/assets/flow_chart_2%20%281%29.png)
 
 **Else Statements**
 
@@ -196,7 +196,7 @@ Notice that we used a triple equals instead of a single equals in the condition.
 
 This is important to note, as confusing the assignment operator with the comparison operator is a common mistake for beginners.
 
-![](../../.gitbook/assets/assignment-vs-comparison.png)
+![](../../.gitbook/assets/assignment-vs-comparison%20%281%29.png)
 
 Take a look at the following example:
 

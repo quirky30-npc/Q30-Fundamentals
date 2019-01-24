@@ -8,13 +8,13 @@ When you're working on a project – say a painting, a piece of software or an a
 
 You might already have a system in place to deal with this problem – maybe you save your document multiple times with different names, so that you can return to a different stage of the project.
 
-![](../.gitbook/assets/version-control.gif)
+![](../.gitbook/assets/version-control%20%281%29.gif)
 
 Developers call this process "version control."
 
 If you're making copies of a file every time you make a change, your file system might look like this:
 
-![](../.gitbook/assets/bad-version-control.png)
+![](../.gitbook/assets/bad-version-control%20%281%29.png)
 
 While this method works \(kinda\), it has a number of major limitations.
 

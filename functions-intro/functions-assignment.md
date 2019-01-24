@@ -81,7 +81,7 @@ Woohoo! Nice work! Now we've added some organization to our code and created a r
 
 ![](../.gitbook/assets/deliverable.png)
 
-![](../.gitbook/assets/deliverable-2.png)
+![](../.gitbook/assets/deliverable-2%20%281%29.png)
 
 #### Pushing Code Up to the Repository
 

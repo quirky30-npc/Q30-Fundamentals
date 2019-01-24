@@ -24,7 +24,7 @@ div {
 
 This means that the top `padding` will be `30px`, the right `padding` is `20px`, the bottom `padding` is `0`, and the left `padding` is `15px`. This diagram will help you visualize how this works:
 
-![](../../.gitbook/assets/trouble.png).
+![](../../.gitbook/assets/trouble%20%281%29.png).
 
 There will also be instances when you want to have the same `padding` or `margin` value for your left and right margins, and another value for your top and bottom margins. For example, to set your _top and bottom_ `padding` to `0` and your _left and right_ `padding` to `20px`, you would set it up like so:
 

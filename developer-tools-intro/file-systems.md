@@ -21,11 +21,11 @@ The way your computer organizes and stores files is called a **file system**. Le
 
 * The top-most directory of the file system is called the **root directory**. All files and directories are contained within the **root directory**, therefore they all share the same root.
 
-![](../.gitbook/assets/root-directory.png)
+![](../.gitbook/assets/root-directory%20%281%29.png)
 
 For the purposes of this lesson, the root directory of everything on your computer is your **home directory**. It's aptly represented in the GUI by a house icon \(if you're using a Mac, that is\).
 
-![](../.gitbook/assets/home.png)
+![](../.gitbook/assets/home%20%281%29.png)
 
 We know how file and directories appear in the GUI. Now, let's find our way around this system in the command line.
 

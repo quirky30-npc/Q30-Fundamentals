@@ -49,15 +49,15 @@ Responsibilities of the back-end developers include:
 
 Let's imagine a user has logged in to their bank's website to view the balance on her checking account. Everything she sees on the screen is front-end code.
 
-![](../.gitbook/assets/front-end-code-1.jpg)
+![](../.gitbook/assets/front-end-code-1%20%281%29.jpg)
 
 When she selects 'Checking Account', the back-end code kicks in. The website now finds her user information, which has been stored in a database.
 
-![](../.gitbook/assets/back-end-code.jpg)
+![](../.gitbook/assets/back-end-code%20%281%29.jpg)
 
 The server returns a response containing our user's checking account information. Then the front end takes over once again, displaying her information with HTML, CSS, and JS.
 
-![](../.gitbook/assets/front-end-code-2.jpg)
+![](../.gitbook/assets/front-end-code-2%20%281%29.jpg)
 
 ### Test yourself
 

@@ -294,7 +294,7 @@ You'll often hear this referred to as **traversing the DOM**.
 
 In an HTML document, elements can be nested inside of other elements.
 
-![](../../.gitbook/assets/nesting.svg)
+![](../../.gitbook/assets/nesting%20%281%29.svg)
 
 In programming, relationships between the document and elements are often described in the same terms one would use to describe a family tree.
 
@@ -308,7 +308,7 @@ document.getElementsByTagName('li')[0].parentNode
 
 This will return the parent of the first `<li>` element, which, in this case, is the `<ul>` element, as it wraps all the `<li>` elements.
 
-![](../../.gitbook/assets/parent.png)
+![](../../.gitbook/assets/parent%20%281%29.png)
 
 Some other properties we can use include:
 

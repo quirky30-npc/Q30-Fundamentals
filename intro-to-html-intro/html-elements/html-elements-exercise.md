@@ -4,13 +4,13 @@
 
 > **NOTE** Moving forward we'll be labeling HTML tags and relevant code in the `following format`. e.g., `p` for a paragraph tag or element.
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
 
 Time to give it a go! In this exercise, you'll get some practice opening and closing your first HTML tags.
 
 Your output should look like this:
 
-![](../../.gitbook/assets/my-first-website.png)
+![](../../.gitbook/assets/my-first-website%20%281%29.png)
 
 ### Instructions
 

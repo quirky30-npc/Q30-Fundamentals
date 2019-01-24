@@ -2,7 +2,7 @@
 
 **WDI Fundamentals Unit 2**
 
-## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
+## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
 Time to try out command line on your own! We've gone ahead and created a new directory for you called `World`. Download it [here](http://generalassembly.github.io/prework/assets/activity/World.zip).
 

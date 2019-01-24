@@ -61,7 +61,7 @@
 
 On Mac, your terminal comes with a manual. To access more \(_a lot more_\) information about any command, type `man`, followed by the command name, and press Enter:
 
-![](../.gitbook/assets/terminal-man.gif)
+![](../.gitbook/assets/terminal-man%20%281%29.gif)
 
 You can scroll through a manual entry using the arrow keys or space bar. To quit this view and return to your prompt, type `q`.
 
