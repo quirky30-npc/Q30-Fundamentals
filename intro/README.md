@@ -1,12 +1,12 @@
 # Introduction
 
-![GA Logo](../.gitbook/assets/q30%20%281%29.png)
+![](../.gitbook/assets/q30%20%281%29.png)
 
 Dear Quirky30 Student,
 
 **Congratulations on joining the Web Development Immersive program at General Assembly!**
 
-Whether you're enrolled to attend classes remotely \(WDIr\) or on campus, prepare for an experience that is as rewarding as it is challenging! There are a lot of technical ideas to cover and terms to learn before starting WDI. To make sure you have the proper footing, we've prepared this ebook covering the fundamentals of web-based programming.
+You're enrolled to attend classes at Quirky30, prepare for an experience that is as rewarding as it is challenging! There are a lot of technical ideas to cover and terms to learn before starting WDI. To make sure you have the proper footing, we've prepared this ebook covering the fundamentals of web-based programming.
 
 We'll cover **HTML**, **CSS** and **JavaScript**. We'll also learn how to work with standard developer tools \(Text Editors, Browsers, the command line, Git, and GitHub\).
 
