@@ -1,10 +1,10 @@
+---
+description: >-
+  This ebook has 11 units; each unit contains lessons, exercises, quizzes, and
+  an assignment.
+---
+
 # Units & Lessons
-
-**Welcome to WDI Fundamentals**
-
-## Units & Lessons
-
-This ebook has 11 units; each unit contains lessons, exercises, quizzes, and an assignment.
 
 | UNIT | TITLE | TOPICS |
 | :---: | :--- | :--- |
