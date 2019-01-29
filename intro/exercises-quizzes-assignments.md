@@ -10,7 +10,7 @@ Click on the tabs to get used to the navigation.
 
 Please refresh the page if you do not see the JS Bin Editor below.
 
-[JS Bin on jsbin.com](https://jsbin.com)
+[JS Bin on jsbin.com](https://jsbin.com/tikadep/1/edit?html,output)
 
 > You're required to submit these exercises, you'll want to save your work in case you have questions and want to review these with your instructors.
 
@@ -24,10 +24,6 @@ Creating a free account on JS Bin will allow you to save your exercises as "bins
 
 3\) Once logged in, if you try to make your changes in any tab, you'll receive the following message.
 
-![](https://github.com/quirky30-npc/Q30-Fundamentals/tree/953b2080c48dde27a36199e15dce533771a0d08c/assets/elkwebdesign/jsbin_clone.png)
-
-You'll want to click on the "clone your own copy" which will generate a new link.
-
 4\) Now that you're logged in, you can save your code by doing one of the following:
 
 * `File` &gt; `Export` as gist.
@@ -37,11 +33,9 @@ You'll want to click on the "clone your own copy" which will generate a new link
 * Save your JS bin url. 
   * Simply copy and save your JS bin url for future reference. You can also go to File &gt;My Bins to find the bin. Additionally, you can also `File` &gt; `Save Snapshot` at point in time where JS bin will automatically save the latest version for you on your working copy.
 
-![](https://github.com/quirky30-npc/Q30-Fundamentals/tree/953b2080c48dde27a36199e15dce533771a0d08c/assets/elkwebdesign/jsbin.png)
-
 **Pro Tip**: Remember, the code you write in the JS Bin editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
 
-**Note**: If your JS Bin editor doesn't load or shows [JS Bin on jsbin.com](https://jsbin.com/zojica/embed?html,output) in place of the editor, simply refresh the page to load the page again.
+**Note**: If your JS Bin editor doesn't load or shows [JS Bin on jsbin.com](https://jsbin.com/zojica/edit?html,output) in place of the editor, simply refresh the page to load the page again.
 
 ## Quizzes
 
@@ -59,25 +53,13 @@ Each unit assignment will build towards your final project, where you'll code a 
 
 While quizzes and assignments won't be formally graded, your local GA team will be checking your submissions to make sure you've completed Fundamentals and made the requisite progress before your first week of WDI.
 
-If you have any concerns about your progress, feel free to reach out to your course producer.
+If you have any concerns about your progress, feel free to reach out to your mentor.
 
 ## Getting Help
 
-### Join the WDI Community on Slack!
+### Ask your mentor!
 
 We design our immersive courses to help you embrace the challenge of lifelong learning. This means that when you get stuck, instructors will often help you to drive your own process of discovery, rather than just give you the right answer. You'll also learn to rely on your classmates for support.
-
-You're probably completing the pre-course work at home or in a coffee shop, so you won't have the same level of guidance you'll receive once you are on campus. For now, we encourage you to connect with your classmates via Slack, a real time messaging application you'll be using in class.
-
-### Sign onto Slack!
-
-* First check your email for an invitation from your producer.
-* Be sure to add a photo and "WDI Student - CITY" or "WDI Student - REMOTE" \(if you're going to be taking WDI remotely\) to your profile.
-* Next, go to [slack.com](https://slack.com/signin), enter "ga-students" where the
-
-  page asks for your team domain, and join the [\#wdi-fundamentals](https://ga-students.slack.com/messages/#wdi-fundamentals/) channel to meet your global classmates!
-
-**Please note: Whether you're joining WDI on campus or WDIr remotely, you should log onto the same channel on slack: \#wdi-fundamentals. If you're working on the older version \(v3.0\), be sure to let your classmates know on Slack because the units are different for the new version \(v3.1\).**
 
 ## Additional Resources
 
