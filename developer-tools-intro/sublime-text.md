@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 2
----
-
 # Atom
 
 ## Atom

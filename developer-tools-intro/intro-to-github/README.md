@@ -1,6 +1,8 @@
-# Intro to Github
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Intro to Github
 
 ## Intro to GitHub
 
@@ -65,11 +67,13 @@ This workflow consists of the following steps:
 
 #### 1. Forking
 
-Let's walk through an example. Consider a project like Node.js, a JavaScript framework. Node.js is completely open source, which means that anyone can read \(and even copy\) the code that makes it work - including you! The source code is publicly available [here](https://github.com/nodejs/node) on GitHub; if you visit the main repo, you'll see that there are more than 1,000 contributors who have made committed changes to Node.js.
+Let's walk through an example. Consider a project like NodeJS, a JavaScript framework. NodeJS is completely open source, which means that anyone can read \(and even copy\) the code that makes it work - including you! The source code is publicly available [here](https://github.com/nodejs/node) on GitHub; if you visit the main repo, you'll see that there are more than 1,000 contributors who have made committed changes to NodeJS.
 
-Although it is open source and anyone can read or contribute to its code, Node.js is **maintained** by a company called Joyent. Not all of these contributors have the ability to edit the original Joyent repo – that wouldn't be very efficient or safe. Someone could accidentally make a change that conflicts with someone else's contributions, causing the code to break. Changes need to be inspected and approved before they can officially be added to the project.
+Although it is open source and anyone can read or contribute to its code, NodeJS is **maintained** by a company called Joyent. Not all of these contributors have the ability to edit the original Joyent repo – that wouldn't be very efficient or safe. Someone could accidentally make a change that conflicts with someone else's contributions, causing the code to break. Changes need to be inspected and approved before they can officially be added to the project.
 
-To create a copy of Joyent's repo, you would need to **fork** it by clicking "Fork" in the upper right-hander corner: ![](../../.gitbook/assets/node-fork%20%281%29.png)
+To create a copy of Joyent's repo, you would need to **fork** it by clicking "Fork" in the upper right-hander corner: 
+
+![](../../.gitbook/assets/node-fork%20%281%29.png)
 
 > **Note** You don't follow these steps just yet. Read this chapter, and then you'll have a chance to try it out yourself in the [Unit 2 Assignment](../developer-tools-assignment.md).
 

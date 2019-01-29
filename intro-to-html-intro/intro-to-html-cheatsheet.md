@@ -1,6 +1,8 @@
-# Cheat Sheet
+---
+description: WDI Fundamentals Unit 3
+---
 
-**WDI Fundamentals Unit 3**
+# Cheat Sheet
 
 ## HTML Cheat Sheet
 

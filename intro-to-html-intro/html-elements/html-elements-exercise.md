@@ -1,10 +1,12 @@
+---
+description: WDI Fundamentals Unit 3
+---
+
 # Exercise
 
-**WDI Fundamentals Unit 3**
-
-> **NOTE** Moving forward we'll be labeling HTML tags and relevant code in the `following format`. e.g., `p` for a paragraph tag or element.
-
 ## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
+
+**NOTE** Moving forward we'll be labeling HTML tags and relevant code in the `following format`. e.g., `p` for a paragraph tag or element.
 
 Time to give it a go! In this exercise, you'll get some practice opening and closing your first HTML tags.
 

@@ -1,9 +1,3 @@
----
-description: >-
-  This ebook has 11 units; each unit contains lessons, exercises, quizzes, and
-  an assignment.
----
-
 # Units & Lessons
 
 | UNIT | TITLE | TOPICS |

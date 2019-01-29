@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 1
----
-
 # Quiz
 
 If you don't see the quiz below, please refresh the page.

@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 1
----
-
 # Intro to Programming Languages
 
 ## Intro to Programming Languages

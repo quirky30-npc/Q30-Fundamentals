@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 1
----
-
 # Think Like a Developer
 
 ## Think Like a Developer

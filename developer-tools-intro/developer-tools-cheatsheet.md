@@ -1,6 +1,8 @@
-# Cheat Sheet
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Cheat Sheet
 
 ## Developer Tools Cheat Sheet
 

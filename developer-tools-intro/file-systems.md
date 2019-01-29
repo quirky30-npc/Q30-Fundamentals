@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 2
----
-
 # File Systems
 
 ## File Systems

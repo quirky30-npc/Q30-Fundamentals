@@ -1,6 +1,8 @@
-# HTML Elements
+---
+description: WDI Fundamentals Unit 3
+---
 
-**WDI Fundamentals Unit 3**
+# HTML Elements
 
 ## HTML Elements
 
@@ -11,8 +13,6 @@ HTML doesn't translate the spaces and line breaks in your code. That's where **e
 **Elements** provide the basic structure for any website– they consist of **opening** and **closing tags** and the content in between those tags.
 
 The tags tell the browser exactly what kind of content is being loaded and the basic structure of that content. For example, to create a large heading on a web page, an opening `<h1>` heading tag and a closing `</h1>` heading tag tell the browser that it needs to render the text between these tags as a large block of text. Watch the video below to learn more!
-
-&lt;/div&gt;
 
 ### Checkpoint:
 

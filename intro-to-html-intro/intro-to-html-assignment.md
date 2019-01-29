@@ -1,6 +1,8 @@
-# Unit 3 Assignment
+---
+description: WDI Fundamentals Unit 3
+---
 
-**WDI Fundamentals Unit 3**
+# Unit 3 Assignment
 
 ## Introduction to HTML
 

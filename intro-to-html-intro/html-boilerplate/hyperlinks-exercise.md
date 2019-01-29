@@ -1,6 +1,8 @@
-# Exercise
+---
+description: WDI Fundamentals Unit 3
+---
 
-**WDI Fundamentals Unit 3**
+# Exercise
 
 ## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
 
@@ -19,7 +21,7 @@ Use the editor provided below to write your code and see what renders! If you do
 1\) Give your website some content: Introduce yourself, mention a social media account \(or a website of your choosing\), and invite users to send you an email. Try something like this:
 
 _Hi, I'm awesome._   
- _Follow me on Twitter.  
+_Follow me on Twitter.  
 Send me an email._
 
 2\) Wrap the first line, "Hi, I'm awesome." in `h1` tags.

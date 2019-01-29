@@ -1,6 +1,8 @@
-# Unit 2 Assignment
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Unit 2 Assignment
 
 ## Developer Tools Assignment
 

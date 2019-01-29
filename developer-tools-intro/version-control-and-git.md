@@ -1,6 +1,8 @@
-# Version Control and Git
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Version Control and Git
 
 ## Version Control
 
