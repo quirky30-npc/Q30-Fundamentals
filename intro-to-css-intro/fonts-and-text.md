@@ -1,12 +1,12 @@
-# Fonts and Text
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Fonts and Text
 
 ## Fonts and Text
 
 As you learn to style your website, you'll want to get more creative with font families, as well as font size, style, and more. You'll also want to start aligning the text to suit your needs. Let's explore how to that!
-
-&lt;/div&gt;
 
 ### More on CSS Text Treatment
 

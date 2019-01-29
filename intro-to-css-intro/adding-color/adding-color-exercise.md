@@ -1,6 +1,8 @@
-# Exercise
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Exercise
 
 ## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
 
@@ -16,13 +18,13 @@ Let's begin by reviewing the starter code below. The `DOCTYPE`, `HTML`, `head`, 
 
 For now, just remember that "div element" is just a tool to group content into boxes that you can control and style with CSS. The attribute ID lets you attach a "label" to an HTML element to style it differently than other elements of that type.
 
-[JS Bin on jsbin.com](http://jsbin.com/zizovos/embed?html)
+[JS Bin on jsbin.com](http://jsbin.com/zizovos/edit?html)
 
 #### CSS: Starter Code
 
 Let's look at the starter CSS. This div style sets the size, position, style, and whitespace on all three boxes.
 
-[JS Bin on jsbin.com](http://jsbin.com/zizovos/embed?css)
+[JS Bin on jsbin.com](http://jsbin.com/zizovos/edit?css)
 
 1. Change the value of the `#name` `div` from `white` to `red`. Remember to click on the **Output** button to see what your code now renders!
 2. Turn the `#hex` `div` red by leaving the first two characters at their maximums of `ff`, and changing the last four characters to their minimums of `0`.

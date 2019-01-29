@@ -1,12 +1,12 @@
-# Adding Color
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Adding Color
 
 ## Adding Color
 
 In this lesson, we'll learn about working with various CSS color and text methods to add flare to our websites! Check out the video below before we dive into another code challenge.
-
-&lt;/div&gt;
 
 ### Color Names
 

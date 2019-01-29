@@ -1,10 +1,12 @@
+---
+description: WDI Fundamentals Unit 4
+---
+
 # Working with Images
 
 ## Working With Images
 
 Adding images to your website can help it come to life. To add images to your site, use the `img` tag with the **src** attribute. `src` stands for "Source" and tells the `img` tag where to find the image you want to include on your page.
-
-&lt;/div&gt;
 
 ### Breaking Down the Image Tag
 

@@ -1,68 +1,70 @@
-# Cheat Sheet
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Cheat Sheet
 
 ## CSS Cheat Sheet
 
 ### Rule
 
-The building block of a CSS stylesheet. A rule consists of a selector and a declaration block \(one or more declarations\).
+* The building block of a CSS stylesheet. A rule consists of a    selector and a declaration block \(one or more declarations\).
 
 ### Declaration
 
-A declaration is made up of a property and a value, separated by a colon and punctuated by a semi-colon.
+* A declaration is made up of a property and a value, separated   by a colon and punctuated by a semi-colon.
 
 ### Selector
 
-The actual HTML object that the declaration\(s\) apply to.
+* The actual HTML object that the declaration\(s\) apply to.
 
 ### Property
 
-The characteristic of the selector that will be changed.
+* The characteristic of the selector that will be changed.
 
 ### Value
 
-The amount or type of change to be applied to the corresponding property of the matched selector.
+* The amount or type of change to be applied to the               corresponding property of the matched selector.
 
 ### Marking-Up
 
-The process of assigning HTML tags to given text content in order to indicate its relation to the rest of the text or dictate how it should be displayed.
+* The process of assigning HTML tags to given text content in     order to indicate its relation to the rest of the text or       dictate how it should be displayed.
 
 ### Serif Font
 
-One of two general categories of fonts \(typefaces\) that uses marks \(called "serifs"\) to embellish characters at the end of strokes. A common serif font is Times New Roman.
+* One of two general categories of fonts \(typefaces\) that       uses marks \(called "serifs"\) to embellish characters at the   end of strokes. A common serif font is Times New Roman.
 
 ### Sans-Serif Font
 
-One of two general categories of fonts that do not embellish characters at the end of strokes \("sans serif" means "without serif"\). A common sans-serif font is Helvetica.
+* One of two general categories of fonts that do not embellish    characters at the end of strokes \("sans serif" means           "without serif"\). A common sans-serif font is Helvetica.
 
 ### Class
 
-A class attribute is added to an HTML element in order to provide a "hook" to refer to that element in your CSS. CSS class selectors begin with a `.`. Classes can be used multiple times per page and are used for styling groups of elements.
+* A class attribute is added to an HTML element in order to       provide a "hook" to refer to that element in your CSS. CSS      class selectors begin with a `.`. Classes can be used           multiple times per page and are used for styling groups of      elements.
 
 ### ID
 
-An ID attribute is added to an HTML element in order to provide a "hook" to refer to that element in your CSS. CSS ID selectors begin with a `#`. Unlike classes, IDs can only be used one time per page.
+* An ID attribute is added to an HTML element in order to         provide a "hook" to refer to that element in your CSS. CSS ID   selectors begin with a `#`. Unlike classes, IDs can only be     used one time per page.
 
 ### Classes vs. IDs
 
-Classes and IDs are ways of targeting the style of specific HTML elements on your page.
+* Classes and IDs are ways of targeting the style of specific     HTML elements on your page.
 
-So, what's the difference between them? In short, classes allow you to style many elements with a particular style, while IDs are only capable of styling a single element.
+* So, what's the difference between them? In short, classes       allow you to style many elements with a particular style,       while IDs are only capable of styling a single element.
 
-Using these selectors allows you flexibility and control of styling individual, as well as groups, of elements on your page.
+* Using these selectors allows you flexibility and control of     styling individual, as well as groups, of elements on your      page.
 
 ### Horizontal Rule
 
-Add a horizontal line across your page using the `hr` tag.
+* Add a horizontal line across your page using the `hr` tag.
 
 ### Line Break
 
-Break up a block of text using the `br` tag.
+* Break up a block of text using the `br` tag.
 
 ### Image
 
-Add images to your HTML using the `img` tag. Tell the browser the source of the image file with an `src` attribute.
+* Add images to your HTML using the `img` tag. Tell the browser   the source of the image file with an `src` attribute.
 
 ### Absolute File Path
 

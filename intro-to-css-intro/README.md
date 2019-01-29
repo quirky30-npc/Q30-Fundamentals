@@ -1,6 +1,8 @@
-# Introduction to CSS
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Introduction to CSS
 
 #### By the end of this Unit, you'll be able to:
 
@@ -15,8 +17,6 @@
 HTML — or **H**yper**T**ext **M**arkup **L**anguage — is the standard language used to code web pages and add content to a website. CSS — **C**ascading **S**tyle **S**heets — dictates how content written in an HTML document looks, including stylistic layouts, colors, and fonts.
 
 In this unit, we'll learn more about CSS and styling to create better designed websites!
-
-&lt;/div&gt;
 
 ### Checkpoint:
 

@@ -1,14 +1,14 @@
-# Classes and IDs
+---
+description: WDI Fundamentals Unit 4
+---
 
-### **WDI Fundamentals Unit 4**
+# Classes and IDs
 
 ## Classes and IDs
 
 Using CSS, you can reference and style your HTML by selecting the class and/or ID attributes of specific HTML elements.
 
 What's the difference between the two? In short, using classes allows you to select and style _groups of elements_ with a particular style, while using an ID only allows for an _individual element_ to be styled. Using classes and IDs allows you to have flexibility in how you control the design of individual elements and groups of elements on the page.
-
-&lt;/div&gt;
 
 ### Benefits of Classes
 

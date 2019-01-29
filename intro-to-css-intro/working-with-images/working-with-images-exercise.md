@@ -1,6 +1,8 @@
-# Exercise
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Exercise
 
 ## ![Your Turn](../../.gitbook/assets/exercise.png) Your Turn
 
@@ -12,7 +14,7 @@ If you don't see the JS Bin below, please refresh the page.
 
 1. Take a look at the starter code below. Yep, it's your HTML boilerplate!
 
-   [Grumpy Cat on jsbin.com](http://jsbin.com/wuxajaw/embed?html,css,output)
+   [Grumpy Cat on jsbin.com](http://jsbin.com/wuxajaw/edit?html,css,output)
 
 2. Write in an `img` tag between the body tags.
 3. Add `src="http://i.imgur.com/z9gGd0t.jpg"` to your image tag. \(Grumpy Cat has strong opinions about visual design!\)
