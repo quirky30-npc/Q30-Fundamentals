@@ -1,6 +1,8 @@
-# Developer Tools
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Developer Tools
 
 ### By the end of this unit, you'll be able to:
 

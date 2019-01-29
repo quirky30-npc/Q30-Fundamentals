@@ -1,6 +1,8 @@
-# Think Like a Developer
+---
+description: WDI Fundamentals Unit 1
+---
 
-**WDI Fundamentals Unit 1**
+# Think Like a Developer
 
 ## Think Like a Developer
 

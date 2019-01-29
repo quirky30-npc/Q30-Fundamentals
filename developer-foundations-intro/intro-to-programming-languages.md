@@ -1,6 +1,8 @@
-# Intro to Programming Languages
+---
+description: WDI Fundamentals Unit 1
+---
 
-**WDI Fundamentals Unit 1**
+# Intro to Programming Languages
 
 ## Intro to Programming Languages
 
@@ -36,7 +38,7 @@ The "Three Amigos" or the three front-end languages are HTML, CSS, and JavaScrip
 
 #### Back-end Languages
 
-Unlike the front end, which has only three languages, there are multiple back-end languages for the web: Ruby \(Ruby on Rails\), Node.js, PHP, Python, C++, and more. Java is another back-end language you may have heard of. Java is _not_ JavaScript! Many novice programmers confuse the two, but they have very different functionalities.
+Unlike the front end, which has only three languages, there are multiple back-end languages for the web: Ruby \(Ruby on Rails\), NodeJs, PHP, Python, C++, and more. Java is another back-end language you may have heard of. Java is _not_ JavaScript! Many novice programmers confuse the two, but they have very different functionalities.
 
 Responsibilities of the back-end developers include:
 
@@ -63,11 +65,11 @@ The server returns a response containing our user's checking account information
 
 Objective: Distinguish Between HTML, CSS, and JS
 
-Visit lyft.com. Try to fill in these blanks:
+Visit [lyft.com](www.lyft.com). Try to fill in these blanks:
 
 1. The words "A Ride in Minutes" appear due to **\_\_**?
 2. The reason for which "A Ride in Minutes" is on the left half of the screen and white is due to _**\_**_?
-3. Hover over the word "Explore" in the navigation menu. That animation is most likely due to _**\_**_?
+3. Scroll down the page. That animation is most likely due to _**\_**_?
 
 Now that we've seen how HTML, CSS and JavaScript fit together, let's take a look at how you can start to [think like a developer](think-like-a-developer.md)
 

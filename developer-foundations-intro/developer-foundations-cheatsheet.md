@@ -1,6 +1,8 @@
-# Cheat Sheet
+---
+description: WDI Fundamentals Unit 1
+---
 
-**WDI Fundamentals Unit 1**
+# Cheat Sheet
 
 ## Developer Foundations Cheat Sheet
 
@@ -94,7 +96,7 @@
 
 ### Back End
 
-* Developer practice involving the server-facing side of a website or app. Back-end languages include Ruby \(Ruby on Rails\), Node.js, PHP, Python, C++, and more.
+* Developer practice involving the server-facing side of a website or app. Back-end languages include Ruby \(Ruby on Rails\), NodeJS, PHP, Python, C++, and more.
 
 [Ready to move on? Tackle the next unit!](../developer-tools-intro/)
 

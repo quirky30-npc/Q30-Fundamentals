@@ -1,6 +1,8 @@
-# Navigating the Command Line
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Navigating the Command Line
 
 ## Navigating the Command Line
 

@@ -13,7 +13,7 @@
 * [Developer Tools](developer-tools-intro/README.md)
   * [Git Bash and Terminal](developer-tools-intro/git-bash-and-terminal.md)
   * [Text Editors and Browsers](developer-tools-intro/text-editors-and-browsers.md)
-  * [Sublime Text](developer-tools-intro/sublime-text.md)
+  * [Atom](developer-tools-intro/sublime-text.md)
   * [File Systems](developer-tools-intro/file-systems.md)
   * [Navigating the Command Line](developer-tools-intro/navigating-the-command-line/README.md)
     * [Exercise](developer-tools-intro/navigating-the-command-line/navigating-the-command-line-exercise.md)

@@ -1,10 +1,12 @@
-# Git Bash and Terminal
+---
+description: WDI Fundamentals Unit 2
+---
 
-**WDI Fundamentals Unit 2**
+# Git Bash and Terminal
 
 ## Git Bash \(Windows Users\)
 
-If you're a _Windows_ user, we will be installing **Git Bash**, an environment that allows you to use Bash. It will create a prompt that is similar to Mac OS X and Ubuntu Linux so you can along in Fundamentals. Once you join us for WDI, you will need to use a Mac or Linux environment. Reach out to your local producer if you have any questions.
+If you're a _Windows_ user, we will be installing **Git Bash**, an environment that allows you to use Bash. It will create a prompt that is similar to Mac OS X and Ubuntu Linux so you can follow along in Fundamentals. Once you join us for WDI, you will need to use a Mac or Linux environment. Reach out to your mentor if you have any questions.
 
 If you're following along on _Mac OS or Ubuntu Linux_, feel free to skip the following section on installing Git Bash. You can jump ahead to the [Terminal](git-bash-and-terminal.md#terminal) section instead.
 
