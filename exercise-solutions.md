@@ -16,14 +16,14 @@ The following solutions are for the unit exercises.
 | 6 | 4 | [Column Layout](#column-layout) |
 | 7 | 1 | [Pseudocode](#pseudocode) |
 | 7 | 2 | [Data Types](#data-types) |
-| 7 | 3 | [Expressions and Evaluations](#expressions-evaluations) |
-| 8 | 1 | [Logical Operators and Booleans](#logical-operators-booleans) |
+| 7 | 3 | [Expressions and Evaluations](#expressions-and-evaluations) |
+| 8 | 1 | [Logical Operators and Booleans](#logical-operators-and-booleans) |
 | 8 | 2 | [Conditionals](#conditionals) |
 | 8 | 3 | [Switch and Ternary](#switch-ternary) |
 | 8 | 4 | [Arrays](#arrays) |
 | 8 | 5 | [Loops](#loops) |
-| 9 | 1 | [Defining and Calling Functions](#defining-calling-functions) |
-| 9 | 2 | [Parameters and Return Statements](#parameters-return-statements) |
+| 9 | 1 | [Defining and Calling Functions](#defining-and-calling-functions) |
+| 9 | 2 | [Parameters and Return Statements](#parameters-and-return-statements) |
 | 9 | 3 | [Scope](#scope) |
 | 10 | 1 | [Creating Objects](#creating-objects) |
 | 10 | 2 | [Methods](#methods) |
