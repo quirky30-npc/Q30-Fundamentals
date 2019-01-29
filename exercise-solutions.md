@@ -5,7 +5,7 @@ The following solutions are for the unit exercises.
 | UNIT | LESSON | TOPIC |
 | :---: | :--- | :--- |
 | 2 | 6 | [Navigating the Command Line](#navigating-the-command-line) |
-| 2 | 7 | [Controlling Files with Command Line](#controlling-files-with-command-line) |
+| 2 | 7 | [Controlling Files with Command Line](#2.7-controlling-files-with-command-line) |
 | 3 | 1 | [HTML Elements](#html-elements) |
 | 3 | 2 | [HTML Links](#hyperlinks) |
 | 4 | 1 | [Adding Color](#adding-color) |
@@ -38,7 +38,7 @@ The following solutions are for the unit exercises.
 
 1\) `$ cd Downloads` 2\) `$ cd World` 3\) `$ ls` 4\) `$ ls -a Europe`
 
-### 2.7 – Controlling Files with Command Line
+### 2.7–Controlling Files with Command Line
 
 Part 1:
 
