@@ -5,7 +5,7 @@ The following solutions are for the unit exercises.
 | UNIT | LESSON | TOPIC |
 | :---: | :--- | :--- |
 | 2 | 6 | [Navigating the Command Line](#navigating-the-command-line) |
-| 2 | 7 | [Controlling Files with Command Line](#2.7-controlling-files-with-command-line) |
+| 2 | 7 | [Controlling Files with Command Line](#controlling-files-with-command-line) |
 | 3 | 1 | [HTML Elements](#html-elements) |
 | 3 | 2 | [HTML Links](#hyperlinks) |
 | 4 | 1 | [Adding Color](#adding-color) |
@@ -38,7 +38,7 @@ The following solutions are for the unit exercises.
 
 1\) `$ cd Downloads` 2\) `$ cd World` 3\) `$ ls` 4\) `$ ls -a Europe`
 
-### 2.7–Controlling Files with Command Line
+### Controlling Files with Command Line
 
 Part 1:
 
@@ -50,7 +50,7 @@ Part 2:
 
 ## Unit 3
 
-### 3.1 – HTML Elements
+### HTML Elements
 
 ```markup
 <h1>My first website!</h1>
@@ -58,7 +58,7 @@ Part 2:
 <p>Built at GA.</p>
 ```
 
-### 3.2 – Hyperlinks
+### Hyperlinks
 
 ```markup
 <h1>Hi, I'm awesome.</h1>
@@ -68,7 +68,7 @@ Part 2:
 
 ## Unit 4
 
-### 4.1 Adding Color
+### Adding Color
 
 1. Change the value of the `#name` `div` from `white` to `red`.
 
@@ -130,7 +130,7 @@ Part 2:
     }
    ```
 
-### 4.5 Working with Images
+### Working with Images
 
 1. Take a look at the starter code below. Yep, it's your HTML boilerplate!
 2. Write in an `img` tag between the body tags.
@@ -159,7 +159,7 @@ Part 2:
 
 ## Unit 5
 
-### 5.3 – The Box Model
+### The Box Model
 
 1. Set the `background-color` of `body` to `#333` and the `background-color` of `div` to `#c0dec5`.
 
@@ -234,7 +234,7 @@ Part 2:
     }
    ```
 
-### 5.4 – Header, Footer, Nav
+### Header, Footer, Nav
 
 #### Section 1: Content and Page Structure
 
@@ -427,7 +427,7 @@ Part 2:
 
 ## Unit 6
 
-### 6.3 – Horizontal Navigation
+### Horizontal Navigation
 
 #### Part 1: Web Fonts
 
@@ -544,7 +544,7 @@ nav {
 }
 ```
 
-### 6.4 – Column Layout
+### Column Layout
 
 1\)
 
@@ -732,7 +732,7 @@ li {
 
 ## Unit 7
 
-### 7.1 - Pseudocode
+### Pseudocode
 
 ```javascript
 // Get the patron's age
@@ -747,7 +747,7 @@ li {
     // Display message "Ticket price: $10.00"
 ```
 
-### 7.2 - Data Types and Variables
+### Data Types and Variables
 
 1. Create a variable `petName`. Assign \(give\) it the value `"Rover"`.
 
@@ -809,7 +809,7 @@ li {
     typeof favoriteToy;
    ```
 
-### 7.3 - Expressions and Evaluations
+### Expressions and Evaluations
 
 1. In the "JavaScript" panel, declare \(create\) a variable `myNumber`. Assign it the value `30`.
 
@@ -855,7 +855,7 @@ li {
 
 ## Unit 8
 
-### 8.1 - Logical Operators and Booleans
+### Logical Operators and Booleans
 
 1. Create a variable `flavor` and assign it the value to `"chocolate"`.
 
@@ -896,7 +896,7 @@ li {
     buyIceCream;
    ```
 
-### 8.2 - Conditionals
+### Conditionals
 
 1. If `x` is evenly divisible by both 3 and 5 \(for example, 0 or 15\), set `result` to `"fizzbuzz"`.
 
@@ -958,7 +958,7 @@ li {
     }
    ```
 
-### 8.3 - Switch And Ternary Operators
+### Switch And Ternary Operators
 
 #### Part 1 - Switch Statements
 
@@ -1031,7 +1031,7 @@ li {
     message = hasEmptySquares === false && answersAreCorrect === true ? "Puzzle complete!" : "Not quite!";
    ```
 
-### 8.4 - Arrays
+### Arrays
 
 1. Create a `contacts` array. This array should contain the names `"Matt Smith"`, `"Sam Davis"`, and `"Ashley Jones"`.
 
@@ -1069,7 +1069,7 @@ li {
     var numberOfContacts = contacts.length;
    ```
 
-### 8.5 - Loops
+### Loops
 
 In exercise for the conditionals lesson, FizzBuzz, we wrote code that took an input, `x`, and set a new `result` value according to a specific set of rules.
 
@@ -1095,7 +1095,7 @@ for (var x = 1; x <= max; x += 1) {
 
 ## Unit 9
 
-### 9.1 - Defining and Calling Functions
+### Defining and Calling Functions
 
 1. In the "JavaScript" panel in JS Bin, define a function `recitePoem`.
    * Inside the function, log `"Roses are red, violets are blue."` to the console. 
@@ -1131,7 +1131,7 @@ for (var x = 1; x <= max; x += 1) {
      twoByFour();
      ```
 
-### 9.2 - Parameters and Return Statements
+### Parameters and Return Statements
 
 1. In the "JavaScript" panel in JS Bin, define a function `sayHello`.
    * It should accept one parameter, `name`.
@@ -1182,7 +1182,7 @@ for (var x = 1; x <= max; x += 1) {
      hotOrNot(76);
      ```
 
-### 9.3 - Scope
+### Scope
 
 1. We are getting a reference error when we try to log "Hello " and "name" to the console. See if you can move the `console.log` statement to where it can access the variable `name`.
 
@@ -1212,7 +1212,7 @@ for (var x = 1; x <= max; x += 1) {
 
 ## Unit 10
 
-### 10.1 - Creating Objects
+### Creating Objects
 
 1. Create an array called `contacts`. The `contacts` array should contain three objects, one for each contact stored in our book.
 
@@ -1251,7 +1251,7 @@ for (var x = 1; x <= max; x += 1) {
     listContacts();
    ```
 
-### 10.2 - Methods
+### Methods
 
 1. In the "JavaScript" panel in JS Bin, create an object `poem`
 
@@ -1308,7 +1308,7 @@ for (var x = 1; x <= max; x += 1) {
     poem.quotePoem();
    ```
 
-### 10.2 - JSON
+### JSON
 
 1. The object passes validation. 2. The following line is valid JavaScript, but the object is not written in valid JSON syntax. Use JSONLint to validate the above object; then, update the object to use the correct JSON syntax so it passes the validator.
 
@@ -1346,7 +1346,7 @@ for (var i = 0; i < grungeAlbumsObject.albums.length; i++) {
 
 ## Unit 11
 
-### 11.1 - Accessing the DOM
+### Accessing the DOM
 
 1. Use the `querySelectorAll()` method to select all elements with the `current` class and then, using array syntax \(our trusty square brackets\), update the selection to only select the _second_ element with the `current` class. After you've made your selection, add the folowing code onto the end of the selection: `.textContent = "The Violent Bear It Away";`
 
@@ -1372,7 +1372,7 @@ for (var i = 0; i < grungeAlbumsObject.albums.length; i++) {
     document. getElementsByTagName('li')[3].textContent = "JavaScript is Fun!";
    ```
 
-### 11.2 - Manipulating the DOM
+### Manipulating the DOM
 
 1. Create a `for` loop. For the `for` loop, `i` should have an initial value of `1` and the loop should run three times. Each time the loop runs, create a `div` element using the `createElement()` method and store it in a variable `boxElement`.
 
@@ -1403,7 +1403,7 @@ for (var i = 0; i < grungeAlbumsObject.albums.length; i++) {
     }
    ```
 
-### 11.3 - Events
+### Events
 
 1. First create a function called `addItem`. For now it should be empty.
 
