@@ -34,7 +34,7 @@ The following solutions are for the unit exercises.
 
 ## Unit 2
 
-### 2.6 - Navigating the Command Line
+### Navigating the Command Line
 
 1\) `$ cd Downloads` 2\) `$ cd World` 3\) `$ ls` 4\) `$ ls -a Europe`
 
