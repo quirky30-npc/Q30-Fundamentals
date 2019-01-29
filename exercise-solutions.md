@@ -4,33 +4,33 @@ The following solutions are for the unit exercises.
 
 | UNIT | LESSON | TOPIC |
 | :---: | :--- | :--- |
-| 2 | 6 | [Navigating the Command Line](exercise-solutions.md#navigating-the-command-line) |
-| 2 | 7 | [Controlling Files with Command Line](exercise-solutions.md#controlling-files-with-command-line) |
-| 3 | 1 | [HTML Elements](exercise-solutions.md#html-elements) |
-| 3 | 2 | [HTML Links](exercise-solutions.md#hyperlinks) |
-| 4 | 1 | [Adding Color](exercise-solutions.md#adding-color) |
-| 4 | 6 | [Working with Images](exercise-solutions.md#working-with-images) |
-| 5 | 3 | [The Box Model](exercise-solutions.md#the-box-model) |
-| 5 | 4 | [Header, Footer, Nav](exercise-solutions.md#semantic-elements) |
-| 6 | 3 | [Horizontal Navigation](exercise-solutions.md#horizontal-nav) |
-| 6 | 4 | [Column Layout](exercise-solutions.md#column-layout) |
-| 7 | 1 | [Pseudocode](exercise-solutions.md#pseudocode) |
-| 7 | 2 | [Data Types](exercise-solutions.md#data-types) |
-| 7 | 3 | [Expressions and Evaluations](exercise-solutions.md#expressions-evaluations) |
-| 8 | 1 | [Logical Operators and Booleans](exercise-solutions.md#logical-operators-booleans) |
-| 8 | 2 | [Conditionals](exercise-solutions.md#conditionals) |
-| 8 | 3 | [Switch and Ternary](exercise-solutions.md#switch-ternary) |
-| 8 | 4 | [Arrays](exercise-solutions.md#arrays) |
-| 8 | 5 | [Loops](exercise-solutions.md#loops) |
-| 9 | 1 | [Defining and Calling Functions](exercise-solutions.md#defining-calling-functions) |
-| 9 | 2 | [Parameters and Return Statements](exercise-solutions.md#parameters-return-statements) |
-| 9 | 3 | [Scope](exercise-solutions.md#scope) |
-| 10 | 1 | [Creating Objects](exercise-solutions.md#creating-objects) |
-| 10 | 2 | [Methods](exercise-solutions.md#methods) |
-| 10 | 3 | [JSON](exercise-solutions.md#json) |
-| 11 | 1 | [Accessing the DOM](exercise-solutions.md#accessing-the-dom) |
-| 11 | 2 | [Manipulating the DOM](exercise-solutions.md#manipulating-the-dom) |
-| 11 | 3 | [Events](exercise-solutions.md#events) |
+| 2 | 6 | [Navigating the Command Line](#navigating-the-command-line) |
+| 2 | 7 | [Controlling Files with Command Line](#controlling-files-with-command-line) |
+| 3 | 1 | [HTML Elements](#html-elements) |
+| 3 | 2 | [HTML Links](#hyperlinks) |
+| 4 | 1 | [Adding Color](#adding-color) |
+| 4 | 6 | [Working with Images](#working-with-images) |
+| 5 | 3 | [The Box Model](#the-box-model) |
+| 5 | 4 | [Header, Footer, Nav](#semantic-elements) |
+| 6 | 3 | [Horizontal Navigation](#horizontal-nav) |
+| 6 | 4 | [Column Layout](#column-layout) |
+| 7 | 1 | [Pseudocode](#pseudocode) |
+| 7 | 2 | [Data Types](#data-types) |
+| 7 | 3 | [Expressions and Evaluations](#expressions-evaluations) |
+| 8 | 1 | [Logical Operators and Booleans](#logical-operators-booleans) |
+| 8 | 2 | [Conditionals](#conditionals) |
+| 8 | 3 | [Switch and Ternary](#switch-ternary) |
+| 8 | 4 | [Arrays](#arrays) |
+| 8 | 5 | [Loops](#loops) |
+| 9 | 1 | [Defining and Calling Functions](#defining-calling-functions) |
+| 9 | 2 | [Parameters and Return Statements](#parameters-return-statements) |
+| 9 | 3 | [Scope](#scope) |
+| 10 | 1 | [Creating Objects](#creating-objects) |
+| 10 | 2 | [Methods](#methods) |
+| 10 | 3 | [JSON](#json) |
+| 11 | 1 | [Accessing the DOM](#accessing-the-dom) |
+| 11 | 2 | [Manipulating the DOM](#manipulating-the-dom) |
+| 11 | 3 | [Events](#events) |
 
 ## Unit 2
 
