@@ -19,7 +19,7 @@ This design has four sections:
 
 This exercise has two sections. First, we'll create the structure of the website. Then, we'll add CSS. If you don't see the JS Bin below, please refresh the page.
 
-[Elk Web Design on jsbin.com](http://jsbin.com/kigeyu/embed?html,css,output)
+[Elk Web Design on jsbin.com](http://jsbin.com/kigeyu/edit?html,css,output)
 
 #### Section 1: Content and Page Structure
 
