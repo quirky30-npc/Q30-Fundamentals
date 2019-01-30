@@ -1,7 +1,5 @@
 # Exercise
 
-**WDI Fundamentals Unit 6**
-
 ## ![Your Turn](../../.gitbook/assets/exercise%20%282%29.png) Your Turn
 
 ### Column Layout Exercise
@@ -14,7 +12,9 @@ If you don't see the JS Bin below, please refresh the page.
 
 Here's the editor you should use to write your code:
 
-[ELK Web Design on jsbin.com](http://jsbin.com/libewe/embed?html,css,output)
+{% embed url="http://jsfiddle.net/pawleesah/wj0nbh5g/embedded/html,css,result/dark/" %}
+
+
 
 1\) Write a rule for `div` that includes a `font-size` of `20px`. Set `div` to stretch across `50%` of the screen's `width`.
 
