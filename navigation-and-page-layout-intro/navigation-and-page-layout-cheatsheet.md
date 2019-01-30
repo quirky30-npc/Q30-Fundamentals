@@ -1,6 +1,8 @@
-# Cheat Sheet
+---
+description: WDI Fundamentals Unit 6
+---
 
-**WDI Fundamentals Unit 6**
+# Cheat Sheet
 
 ## Navigation and Page Layout Cheat Sheet
 
