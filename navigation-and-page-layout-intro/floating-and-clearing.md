@@ -1,10 +1,12 @@
-# Floating and Clearing
+---
+description: WDI Fundamentals Unit 6
+---
 
-**WDI Fundamentals Unit 6**
+# Floating and Clearing
 
 ## Floating and Clearing
 
-&lt;/div&gt;
+{% embed url="http://fast.wistia.net/embed/iframe/fioff624wp?seo=false&videoFoam=true" %}
 
 ### Checkpoint
 
@@ -14,12 +16,12 @@
 
 ### Further Reading
 
-* [http://learnlayout.com/float.html](http://learnlayout.com/float.html)
-* [http://learnlayout.com/clear.html](http://learnlayout.com/clear.html)
-* [http://learnlayout.com/clearfix.html](http://learnlayout.com/clearfix.html)
-* [http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/](http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/)
-* [https://css-tricks.com/all-about-floats/](https://css-tricks.com/all-about-floats/)
-* [http://css-tricks.com/the-how-and-why-of-clearing-floats/](http://css-tricks.com/the-how-and-why-of-clearing-floats/)
+* [About css float](http://learnlayout.com/float.html)
+* [About css clear](http://learnlayout.com/clear.html)
+* [About css clearfix](http://learnlayout.com/clearfix.html)
+* [Article on css float theory things you should know](http://www.smashingmagazine.com/2007/05/01/css-float-theory-things-you-should-know/)
+* [All about floats](https://css-tricks.com/all-about-floats/)
+* [The how and why of clearing floats](http://css-tricks.com/the-how-and-why-of-clearing-floats/)
 
 [On to the next lesson!](horizontal-navigation/)
 

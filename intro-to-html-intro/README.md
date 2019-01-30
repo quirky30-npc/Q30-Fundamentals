@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 3
----
-
 # Introduction to HTML
 
 ## Intro to HTML

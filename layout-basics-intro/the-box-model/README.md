@@ -1,3 +1,7 @@
+---
+description: WDI Fundamentals Unit 5
+---
+
 # The Box Model
 
 ## The Box Model
@@ -8,8 +12,6 @@ Now that we understand how to differentiate between `inline` and `block` element
 * The **padding**, or the area outside of the content
 * The **border**, or the line between `padding` and `margin`
 * The **margin**, or the area outside the `border` that separates the element from other elements on the page
-
-&lt;/div&gt;
 
 ### More on the Box Model
 

@@ -1,10 +1,14 @@
-# Horizontal Navigation
+---
+description: WDI Fundamentals Unit 6
+---
 
-**WDI Fundamentals Unit 6**
+# Horizontal Navigation
 
 ## Horizontal Navigation
 
-&lt;/div&gt;
+{% embed url="http://fast.wistia.net/embed/iframe/39iiryhba1?seo=false&videoFoam=true" %}
+
+
 
 ### Checkpoint
 

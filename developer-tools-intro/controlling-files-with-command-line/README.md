@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 2
----
-
 # Controlling Files with Command Line
 
 ## Controlling Files with Command Line

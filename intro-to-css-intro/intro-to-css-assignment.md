@@ -1,6 +1,8 @@
-# Unit 4 Assignment
+---
+description: WDI Fundamentals Unit 4
+---
 
-**WDI Fundamentals Unit 4**
+# Unit 4 Assignment
 
 ## Principles of HTML & CSS
 
@@ -18,7 +20,7 @@ As you move through the next several units, you'll build parts of a browser memo
 
 **Here are the steps to complete the assignment:**
 
-1\) Open your previous `memory_game` folder in Sublime where you created your memory game HTML file.
+1\) Open your previous `memory_game` folder in Atom where you created your memory game HTML file.
 
 2\) Underneath your instructions and before the closing `</body>` tag, create four `img` elements with one `div` element wrapping them like so:
 
@@ -38,7 +40,7 @@ You'll use the `div` and `img`s to create a "board" and the individual "cards" t
 * Right click on the `memory_game` folder in the sidebar in sublime and select the "New Folder" option.
 * Name the new folder `images`.
 * Visit [this link](https://drive.google.com/file/d/0B3vwi9JWe-1OVW02S25tQ2ZVNVE/view?usp=sharing) to download a zip file with the images that you'll need for this project.
-* After downloading the images, double-click on the zip file to unzip it, then move the **entire** `images` **folder** into the `memory_game` folder in Finder. Once you've moved it in Finder, you should see the folder name appear in the sidebar in Sublime text.
+* After downloading the images, double-click on the zip file to unzip it, then move the **entire** `images` **folder** into the `memory_game` folder in Finder. Once you've moved it in Finder, you should see the folder name appear in the sidebar in Atom.
 
 > Working along on Windows? To unzip all the contents of the zipped folder, press and hold \(or right-click\) the folder, select "Extract All", and then follow the instructions. Then move the resulting folder to the `memory_game` folder in Windows Explorer.
 

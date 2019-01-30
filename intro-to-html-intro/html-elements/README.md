@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 3
----
-
 # HTML Elements
 
 ## HTML Elements

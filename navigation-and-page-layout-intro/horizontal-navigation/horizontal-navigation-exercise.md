@@ -1,6 +1,8 @@
-# Exercise
+---
+description: WDI Fundamentals Unit 6
+---
 
-**WDI Fundamentals Unit 6**
+# Exercise
 
 ## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn
 
@@ -14,13 +16,15 @@ Remember, this is our final design:
 
 ### Instructions
 
-If you don't see the JS Bin below, please refresh the page.
+If you don't see the JS Fiddle below, please refresh the page.
 
 #### Getting Started
 
 You'll be using the editor below. First, take a look at the starter code:
 
-[JS Bin on jsbin.com](http://jsbin.com/cojeke/embed?html,css,output)
+{% embed url="http://jsfiddle.net/pawleesah/zkeusym1/embedded/html,css,result/dark/" %}
+
+
 
 #### Part 1: Web Fonts
 

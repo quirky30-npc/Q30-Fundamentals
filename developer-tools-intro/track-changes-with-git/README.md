@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 2
----
-
 # Track Changes with Git
 
 ## Track Changes with Git

@@ -1,10 +1,12 @@
-# Vertical Navigation
+---
+description: WDI Fundamentals Unit 6
+---
 
-**WDI Fundamentals Unit 6**
+# Vertical Navigation
 
 ## Vertical Navigation
 
-&lt;/div&gt;
+{% embed url="http://fast.wistia.net/embed/iframe/5nduzkgwav?seo=false&videoFoam=true" %}
 
 ### Checkpoint
 

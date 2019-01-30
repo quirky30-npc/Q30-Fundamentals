@@ -1,10 +1,12 @@
-# Column Layout
+---
+description: WDI Fundamentals Unit 6
+---
 
-**WDI Fundamentals Unit 6**
+# Column Layout
 
 ## Column Layout
 
-&lt;/div&gt;
+{% embed url="http://fast.wistia.net/embed/iframe/fk9027biok?seo=false&videoFoam=true" %}
 
 ### Reminder: Use IDs Sparingly in CSS
 

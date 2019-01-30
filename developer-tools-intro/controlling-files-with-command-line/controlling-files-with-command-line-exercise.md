@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 2
----
-
 # Exercise
 
 ## ![Your Turn](../../.gitbook/assets/exercise%20%281%29.png) Your Turn

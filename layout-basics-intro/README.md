@@ -1,6 +1,8 @@
-# Layout Basics
+---
+description: WDI Fundamentals Unit 5
+---
 
-**WDI Fundamentals Unit 5**
+# Layout Basics
 
 #### By the end of this Unit, you'll be able to:
 
@@ -12,8 +14,6 @@
 ## Layout Basics
 
 At this point in our journey with HTML and CSS, we'll want to start moving things around a bit on our webpage. But before that, we have to understand that HTML elements function and behave differently within the browser. HTML elements can either be `inline` or `block` elements. What's the difference? Is a `header` tag an `inline` or a `block` element? When CSS is applied, how will it render in the browser? These are all questions we'll explore below!
-
-&lt;/div&gt;
 
 ### Checkpoint:
 

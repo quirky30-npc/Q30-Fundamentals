@@ -48,11 +48,9 @@ description: WDI Fundamentals Unit 4
 
 ### Classes vs. IDs
 
-* Classes and IDs are ways of targeting the style of specific     HTML elements on your page.
-
-* So, what's the difference between them? In short, classes       allow you to style many elements with a particular style,       while IDs are only capable of styling a single element.
-
-* Using these selectors allows you flexibility and control of     styling individual, as well as groups, of elements on your      page.
+* Classes and IDs are ways of targeting the style of specific HTML elements on your page.
+* So, what's the difference between them? In short, classes allow you to style many elements with a particular style, while IDs are only capable of styling a single element.
+* Using these selectors allows you flexibility and control of styling individual, as well as groups, of elements on your page.
 
 ### Horizontal Rule
 
