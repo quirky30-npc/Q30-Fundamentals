@@ -1,6 +1,8 @@
-# Internet Fundamentals
+---
+description: WDI Fundamentals Unit 1
+---
 
-**WDI Fundamentals Unit 1**
+# Internet Fundamentals
 
 ## Internet Fundamentals
 
