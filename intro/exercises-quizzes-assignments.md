@@ -1,6 +1,6 @@
 # Exercises, Quizzes & Assignments
 
-## Js Fiddle Exercises
+## JS Fiddle Exercises
 
 Fundamentals is interactive! Within every Unit, we've included practice exercises using a code editor \(called JS Fiddle\) that allows you to practice without leaving the page.
 
@@ -10,13 +10,13 @@ Click on the tabs to get used to the navigation.
 
 Please refresh the page if you do not see the JS Fiddle Editor below.
 
-[Js Fiddle.net](//jsfiddle.net/Asiphile/mc218gqo/embedded/html,result/)
+[JS Fiddle.net](//jsfiddle.net/Asiphile/mc218gqo/embedded/html,result/)
 
 > You're required to submit these exercises, you'll want to save your work in case you have questions and want to review these with your instructors.
 
 ### To Save Your Code
 
-Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [Js Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Fiddle account and learn how to save your code.
+Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [JS Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Fiddle account and learn how to save your code.
 
 1\) If you want to save your code, you'll need to hit the "Save" button on the top left of the JS Fiddle editor, which will open a new browser.
 
@@ -30,12 +30,12 @@ Creating a free account on JS Bin will allow you to save your exercises as "bins
   * This will save your file as a GitHub repository on your GitHub! Read more about gists [here](https://help.github.com/articles/about-gists/)
 * `File` &gt; `Download`. 
   * Download and save your file locally.
-* Save your JS bin url. 
-  * Simply copy and save your JS bin url for future reference. You can also go to File &gt;My Bins to find the bin. Additionally, you can also `File` &gt; `Save Snapshot` at point in time where JS bin will automatically save the latest version for you on your working copy.
+* Save your JS Fiddle bin url. 
+  * Simply copy and save your JS Fiddle url for future reference. You can also go to File &gt;My Bins to find the bin. Additionally, you can also `File` &gt; `Save Snapshot` at point in time where JS Fiddle will automatically save the latest version for you on your working copy.
 
 **Pro Tip**: Remember, the code you write in the JS Fiddle editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
 
-**Note**: If your JS Fiddle editor doesn't load or shows [Js Fiddle](https://jsfiddle.net/Asiphile/mc218gqo/embedded/html,result). in place of the editor, simply refresh the page to load the page again.
+**Note**: If your JS Fiddle editor doesn't load or shows [JS Fiddle](https://jsfiddle.net/Asiphile/mc218gqo/embedded/html,result). in place of the editor, simply refresh the page to load the page again.
 
 ## Quizzes
 
