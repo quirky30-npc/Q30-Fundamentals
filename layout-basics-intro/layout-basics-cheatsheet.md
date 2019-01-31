@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 5
----
-
 # Cheat Sheet
 
 ## Layout Basics Cheat Sheet

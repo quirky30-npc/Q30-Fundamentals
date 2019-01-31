@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 5
----
-
 # Layout Basics
 
 #### By the end of this Unit, you'll be able to:

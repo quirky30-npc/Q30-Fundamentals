@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 4
----
-
 # Unit 4 Assignment
 
 ## Principles of HTML & CSS

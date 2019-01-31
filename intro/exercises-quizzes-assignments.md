@@ -2,13 +2,13 @@
 
 ## Js Fiddle Exercises
 
-Fundamentals is interactive! Within every Unit, we've included practice exercises using a code editor \(called JS Bin\) that allows you to practice without leaving the page.
+Fundamentals is interactive! Within every Unit, we've included practice exercises using a code editor \(called JS Fiddle\) that allows you to practice without leaving the page.
 
 Here's an example. You can type your code directly into the text editor and also click the various tabs \(HTML, CSS, JavaScript\) to type in additional code. The "Output" tab will render your code in real time.
 
 Click on the tabs to get used to the navigation.
 
-Please refresh the page if you do not see the JS Bin Editor below.
+Please refresh the page if you do not see the JS Fiddle Editor below.
 
 [Js Fiddle.net](//jsfiddle.net/Asiphile/mc218gqo/embedded/html,result/)
 
@@ -16,11 +16,11 @@ Please refresh the page if you do not see the JS Bin Editor below.
 
 ### To Save Your Code
 
-Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [Js Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Bin account and learn how to save your code.
+Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [Js Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Fiddle account and learn how to save your code.
 
-1\) If you want to save your code, you'll need to hit the "Save" button on the top left of the JS Bin editor, which will open a new browser.
+1\) If you want to save your code, you'll need to hit the "Save" button on the top left of the JS Fiddle editor, which will open a new browser.
 
-2\) Log in using a GitHub account. If you don't have one go to the [GitHub Website](https://github.com/) to set up an account. _As of recently, JS bin only accepts GitHub accounts for registration._
+2\) Log in using a GitHub account. If you don't have one go to the [GitHub Website](https://github.com/) to set up an account. _As of recently, JS Fiddle only accepts GitHub accounts for registration._
 
 3\) Once logged in, if you try to make your changes in any tab, you'll receive the following message.
 
@@ -33,9 +33,9 @@ Creating a free account on JS Bin will allow you to save your exercises as "bins
 * Save your JS bin url. 
   * Simply copy and save your JS bin url for future reference. You can also go to File &gt;My Bins to find the bin. Additionally, you can also `File` &gt; `Save Snapshot` at point in time where JS bin will automatically save the latest version for you on your working copy.
 
-**Pro Tip**: Remember, the code you write in the JS Bin editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
+**Pro Tip**: Remember, the code you write in the JS Fiddle editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
 
-**Note**: If your JS Bin editor doesn't load or shows [Js Fiddle](https://jsfiddle.net/Asiphile/mc218gqo/embedded/html,result). in place of the editor, simply refresh the page to load the page again.
+**Note**: If your JS Fiddle editor doesn't load or shows [Js Fiddle](https://jsfiddle.net/Asiphile/mc218gqo/embedded/html,result). in place of the editor, simply refresh the page to load the page again.
 
 ## Quizzes
 

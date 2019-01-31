@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 6
----
-
 # Unit 6 Assignment
 
 ## Navigation & Page Layout

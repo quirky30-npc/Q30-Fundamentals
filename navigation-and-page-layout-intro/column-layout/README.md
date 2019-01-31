@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 6
----
-
 # Column Layout
 
 ## Column Layout

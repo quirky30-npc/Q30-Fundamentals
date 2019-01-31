@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 6
----
-
 # Navigation and Page Layout
 
 ### By the end of this unit, you'll be able to:

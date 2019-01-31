@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 5
----
-
 # The Box Model
 
 ## The Box Model

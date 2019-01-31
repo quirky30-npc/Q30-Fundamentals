@@ -22,7 +22,7 @@ If you don't see the JS Fiddle below, please refresh the page.
 
 You'll be using the editor below. First, take a look at the starter code:
 
-{% embed url="http://jsfiddle.net/pawleesah/wj0nbh5g/embedded/html,css,result/dark/" %}
+{% embed url="http://jsfiddle.net/pawleesah/wj0nbh5g/embedded/html,css,result/dark/" caption="" %}
 
 #### Part 1: Web Fonts
 

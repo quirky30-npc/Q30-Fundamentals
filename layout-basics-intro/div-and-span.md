@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 5
----
-
 # Div and Span
 
 ## Div and Span

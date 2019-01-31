@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 6
----
-
 # Floating and Clearing
 
 ## Floating and Clearing

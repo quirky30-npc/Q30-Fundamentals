@@ -1,7 +1,3 @@
----
-description: WDI Fundamentals Unit 7
----
-
 # Introduction to JavaScript
 
 #### By the end of this unit, you'll be able to:
