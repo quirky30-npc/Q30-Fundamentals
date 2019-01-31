@@ -1,6 +1,8 @@
-# Developer Foundations
+---
+description: WDI Fundamentals Unit 1
+---
 
-**WDI Fundamentals Unit 1**
+# Developer Foundations
 
 ### By the end of this Unit, you'll be able to:
 
