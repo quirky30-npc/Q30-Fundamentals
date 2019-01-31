@@ -1,6 +1,6 @@
 # Exercises, Quizzes & Assignments
 
-## JsFiddle Exercises
+## Js Fiddle Exercises
 
 Fundamentals is interactive! Within every Unit, we've included practice exercises using a code editor \(called JS Bin\) that allows you to practice without leaving the page.
 
@@ -10,13 +10,13 @@ Click on the tabs to get used to the navigation.
 
 Please refresh the page if you do not see the JS Bin Editor below.
 
-[JsFiddle.net](//jsfiddle.net/Asiphile/mc218gqo/embedded/html,result/)
+[Js Fiddle.net](//jsfiddle.net/Asiphile/mc218gqo/embedded/html,result/)
 
 > You're required to submit these exercises, you'll want to save your work in case you have questions and want to review these with your instructors.
 
 ### To Save Your Code
 
-Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [JsFiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Bin account and learn how to save your code.
+Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [Js Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Bin account and learn how to save your code.
 
 1\) If you want to save your code, you'll need to hit the "Save" button on the top left of the JS Bin editor, which will open a new browser.
 
@@ -35,7 +35,7 @@ Creating a free account on JS Bin will allow you to save your exercises as "bins
 
 **Pro Tip**: Remember, the code you write in the JS Bin editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
 
-**Note**: If your JS Bin editor doesn't load or shows [JsFiddle](https://jsfiddle.net/Asiphile/mc218gqo/embedded/html,result). in place of the editor, simply refresh the page to load the page again.
+**Note**: If your JS Bin editor doesn't load or shows [Js Fiddle](https://jsfiddle.net/Asiphile/mc218gqo/embedded/html,result). in place of the editor, simply refresh the page to load the page again.
 
 ## Quizzes
 
