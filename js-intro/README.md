@@ -1,6 +1,8 @@
-# Introduction to JavaScript
+---
+description: WDI Fundamentals Unit 7
+---
 
-**WDI Fundamentals Unit 7**
+# Introduction to JavaScript
 
 #### By the end of this unit, you'll be able to:
 
@@ -59,13 +61,13 @@ Although we will be specifically looking at these concepts in the context of **J
 
 Having a strong understanding of the basics is essential and will translate to your future work, whether you end up programming in JavaScript, Ruby, Python, or any other language.
 
-### JS Bin
+### JS Fiddle
 
-To start playing around with JavaScript, we'll be using a website called [**JS Bin**](http://jsbin.com/).
+To start playing around with JavaScript, we'll be using a website called [**JS Fiddle** ](http://jsbin.com/).
 
 ![JSBin Screenshot](../.gitbook/assets/js-bin.gif)
 
-As you can see in the screenshot above, JS Bin features different window panes.
+As you can see in the screenshot above, JS Fiddle features different window panes.
 
 On the left is the _editor_, or "JavaScript" panel. This is where you will be writing your JavaScript code.
 
@@ -75,7 +77,7 @@ After writing your JavaScript into the "JavaScript" panel and clicking the "Run"
 
 ![JSBin Screenshot](../.gitbook/assets/account.gif)
 
-To save your JS Bin session, click "Login or Register" at the top, and log in with GitHub. When you select "File," followed by "New," you'll open a blank workspace.
+To save your JS Fiddle session, click "Login or Register" at the top, and log in with GitHub. When you select "File," followed by "New," you'll open a blank workspace.
 
 The moment you begin writing code, JS Bin will generate a URL that you can bookmark and come back to at any time.
 
