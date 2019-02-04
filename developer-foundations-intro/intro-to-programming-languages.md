@@ -61,7 +61,7 @@ The server returns a response containing our user's checking account information
 
 Objective: Distinguish Between HTML, CSS, and JS
 
-Visit [lyft.com](www.lyft.com). Try to fill in these blanks:
+Visit [lyft.com](https://www.lyft.com/). Try to fill in these blanks:
 
 1. The words "A Ride in Minutes" appear due to **\_\_**?
 2. The reason for which "A Ride in Minutes" is on the left half of the screen and white is due to _**\_**_?
