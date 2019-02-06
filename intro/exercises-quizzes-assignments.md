@@ -16,22 +16,11 @@ Please refresh the page if you do not see the JS Fiddle Editor below.
 
 ### To Save Your Code
 
-Creating a free account on JS Bin will allow you to save your exercises as "bins." So make sure to create a [JS Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Fiddle account and learn how to save your code.
+Creating a free account on JS Bin will allow you to save your exercises as "fiddles." So make sure to create a [JS Fiddle account ](https://jsfiddle.net/user/signup/). Follow the instructions below to create your JS Fiddle account and learn how to save your code.
 
-1\) If you want to save your code, you'll need to hit the "Save" button on the top left of the JS Fiddle editor, which will open a new browser.
+1\) If you want to save your code, you'll need to hit the "Save" button on the top left of the JS Fiddle editor.
 
-2\) Log in using a GitHub account. If you don't have one go to the [GitHub Website](https://github.com/) to set up an account. _As of recently, JS Fiddle only accepts GitHub accounts for registration._
-
-3\) Once logged in, if you try to make your changes in any tab, you'll receive the following message.
-
-4\) Now that you're logged in, you can save your code by doing one of the following:
-
-* `File` &gt; `Export` as gist.
-  * This will save your file as a GitHub repository on your GitHub! Read more about gists [here](https://help.github.com/articles/about-gists/)
-* `File` &gt; `Download`. 
-  * Download and save your file locally.
-* Save your JS Fiddle bin url. 
-  * Simply copy and save your JS Fiddle url for future reference. You can also go to File &gt;My Bins to find the bin. Additionally, you can also `File` &gt; `Save Snapshot` at point in time where JS Fiddle will automatically save the latest version for you on your working copy.
+2\) Once logged in, you can make your changes in any tab.
 
 **Pro Tip**: Remember, the code you write in the JS Fiddle editor will _not automatically save._ Therefore, you need to make sure that you hit the _**save**_ button and make sure you copy your code over.
 
@@ -51,7 +40,7 @@ Each unit assignment will build towards your final project, where you'll code a 
 
 ## Grading
 
-While quizzes and assignments won't be formally graded, your local GA team will be checking your submissions to make sure you've completed Fundamentals and made the requisite progress before your first week of WDI.
+While quizzes and assignments won't be formally graded, your Quirky30 team will be checking your submissions to make sure you've completed Fundamentals and made the requisite progress before your first week of WDI.
 
 If you have any concerns about your progress, feel free to reach out to your mentor.
 
